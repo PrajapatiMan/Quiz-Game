@@ -1,1 +1,3 @@
-# Quiz-Game 🎮 Try It and Get FUN ⚡
+# Quiz-Game 🎮 
+Try It and Get FUN ⚡
+Using C Only ...
